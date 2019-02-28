@@ -1,2 +1,2 @@
 # SpringCloud
-Configuraciones para Spring Cloud
+Proyectos, configuraciones y ejemplos de spring cloud
