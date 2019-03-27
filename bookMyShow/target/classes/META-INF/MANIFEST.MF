@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: bookMyShow
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: NOELGONZALEZORNELAS
+Implementation-Vendor-Id: com.spring.examples
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/bookMyShow
+Created-By: Maven Integration for Eclipse
+
